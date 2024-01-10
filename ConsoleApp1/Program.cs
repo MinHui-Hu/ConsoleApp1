@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 //請使用者輸入姓名及密碼,並回傳OK字串
 
 Console.WriteLine("請輸入姓名:");
-string name = Console.ReadLine();
+string name = Console.ReadLine(); //123
 
 Console.WriteLine("請輸入密碼:");
 string password = Console.ReadLine();
